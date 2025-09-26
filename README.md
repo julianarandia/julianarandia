@@ -5,7 +5,7 @@
 ---
 
 ### 🚀 About Me
-- 📊 I'm still a Junior Data Analyst, currently working on and learning more about Python and SQL  
+- 🔭 I'm still a Junior Data Analyst, currently working on and learning more about Python and SQL  
 - ✨ So far so good  
 - 📫 How to reach me: principalarandia@gmail.com 
 
