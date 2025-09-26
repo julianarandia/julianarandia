@@ -9,6 +9,4 @@
 - ✨ So far so good  
 - 📫 How to reach me: principalarandia@gmail.com 
 
----
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=default)
